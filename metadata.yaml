@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '4304'
     url: http://www.gutenberg.org/2009/agents/4304
 description: Youthful excursions -- A blind alley -- The right road.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40487#Happy-go-lucky
 gutenberg_issued: '2012-08-12'
 gutenberg_type: Text
 identifiers:
